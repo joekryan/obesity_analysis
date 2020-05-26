@@ -98,7 +98,7 @@ Lasso (with BIC) had the highest R^2 value and will simplify our model (so bette
   <img src="https://github.com/joekryan/obesity_analysis/blob/master/final_model.png" width=850>
 </p>
 
-The final regression model had an R2 value of 0.6
+The final regression model had an R2 value of just under 0.6
 
 The final model was then evaluated against the assumptions of linear regression. These are as follows:
 
